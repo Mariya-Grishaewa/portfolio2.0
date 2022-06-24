@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 231, 231);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(255, 122, 122);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(255, 122, 122);
+}
+
+h3 {
+    text-align: center;
+    background-color: rgb(255, 122, 122);
+}
+
+footer {
+    padding: 2px;
+    background-color: rgb(255, 122, 122);
+    text-align: center;
+    color: aliceblue;
+}
